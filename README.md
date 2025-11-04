@@ -64,7 +64,7 @@ You'll need the following installed on your machine:
 
 1.  **Navigate to the frontend directory:**
     ```bash
-    cd ../frontend
+    cd ../client
     ```
 2.  **Install dependencies:**
     ```bash
